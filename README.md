@@ -12,3 +12,8 @@ Python 教务管理系统
 运行主程序：
 bash
 python edu.py
+
+默认账号和密码分为三个（可后续添加用户和更改密码）
+管理员	admin	123456
+教师	teacher1	123456
+学生	student1	123456
